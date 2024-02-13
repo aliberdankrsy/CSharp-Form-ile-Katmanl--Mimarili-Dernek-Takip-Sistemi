@@ -1,0 +1,273 @@
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\Ali Berdan Karasoy\Desktop\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\ariiy\OneDrive\Desktop\Golfdernegi\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe.config
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.exe
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\GolfDerneği.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\BusinesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\EntityLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\itextsharp.xml
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ZedGraph.xml
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.AdminPaneliFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.GirisMessageBoxForm.resources
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.Properties.Resources.resources
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.UyePaneliFormu.resources
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.exe
+C:\Users\Ali Berdan Karasoy\Desktop\12GolfDerneği\GolfDerneği\GolfDerneği\obj\Debug\GolfDerneği.pdb

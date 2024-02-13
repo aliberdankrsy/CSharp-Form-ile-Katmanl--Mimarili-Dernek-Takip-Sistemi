@@ -1,0 +1,111 @@
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CopyComplete
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.pdb
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\itextsharp.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\source\repos\GörselProgramlama\GolfDerneği\BusinesLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\itextsharp.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CopyComplete
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\Görsel Berdan 2.0\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\itextsharp.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.xml
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.AssemblyReference.cache
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CopyComplete
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.dll
+C:\Users\ariiy\OneDrive\Desktop\GolfDerneği\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\BusinesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\DataAccesLayer.dll.config
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\ZedGraph.xml
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.AssemblyReference.cache
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.csproj.CopyComplete
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.dll
+C:\Users\Ali Berdan Karasoy\Desktop\Golfdernegi\GolfDerneği\BusinesLayer\obj\Debug\BusinesLayer.pdb
